@@ -7,7 +7,7 @@ Simple integration of Flask and Webhelpers
 Links
 -----
 
-* `documentation <https://www.techchorus.net>`_
+* `documentation <http://flask-webhelpers.readthedocs.org/en/latest/>`_
 
 """
 import re

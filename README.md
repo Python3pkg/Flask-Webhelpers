@@ -6,3 +6,5 @@ Currently, the API is being worked out. Check again later to download and use th
 If you are viewing this on Github, you are looking at the mirror of the main repository - https://bitbucket.org/bngsudheer/flask-webhelpers.
 
 Webhelpers documentation - http://sluggo.scrapping.cc/python/WebHelpers/contents.html
+
+Flask-Webhelpers documentation - http://flask-webhelpers.readthedocs.org/en/latest/
