@@ -8,7 +8,7 @@ This is a testing file for Flask-Webhelpers.
 :license:   BSD, see LICENSE for details
 """
 
-from __future__ import with_statement
+
 import os
 import flask
 import unittest
@@ -24,7 +24,7 @@ class TestFlasktWebelpers(unittest.TestCase):
 
     def get_users(self):
         my_list = []
-        for i in xrange(100):
+        for i in range(100):
             my_obj = MyClass()
             my_obj.user_id = i
             my_obj.username = 'username_%s' % i
